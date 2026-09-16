@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✨ Quietly-forward. ✨</h1>
+  <h1>Quietly-forward.</h1>
 
   <h3>闲人逸事</h3>
 
