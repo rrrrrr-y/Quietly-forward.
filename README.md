@@ -8,8 +8,6 @@
 
   <p><strong>Never never leave.</strong></p>
 
-  <p><strong>Stay with me.</strong></p>
-  
   <p>
     🌳 🌸
   </p>
