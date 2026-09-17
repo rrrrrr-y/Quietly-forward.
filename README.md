@@ -6,7 +6,7 @@
 
   <p><strong>God stands with us.</strong></p>
 
-  <p><strong>Never never leave.</strong></p>
+  <p><strong>Never ever leave if needed.</strong></p>
 
   <p>
     🌳 🌸
