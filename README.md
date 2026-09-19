@@ -8,7 +8,7 @@
 
   <p><strong>Never ever leave if needed.</strong></p>
 
-  <p><strong>无关请绕道，谢谢.</strong></p>
+  <p><strong>无关请绕道，感谢。</strong></p>
 
   <p>
     🌳 🌸
