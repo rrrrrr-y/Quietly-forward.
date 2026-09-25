@@ -8,7 +8,9 @@
 
   <p><strong>Never ever leave if needed.</strong></p>
 
-  <p><strong>写给 R 和 Y</strong></p>
+  <p><strong>写给 R 和 Y
+  人生几何 能够得到知己
+  自由 平淡</strong></p>
 
   <p>
     🌳 🌸
