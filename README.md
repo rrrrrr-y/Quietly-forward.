@@ -9,11 +9,6 @@
   <p><strong>Never ever leave if needed.</strong></p>
 
   <p><strong>写给 R 和 Y</strong></p>
-
-  <p><strong>平淡</strong></p>
-  
-  <p><strong>同是天涯沦落人，如果不小心看见，请当作遇见了一本锁上的笔记本。</strong></p>
-
   <p>
     🌳 🌸
   </p>
