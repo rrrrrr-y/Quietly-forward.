@@ -8,7 +8,7 @@
 
   <p><strong>Never ever leave if needed.</strong></p>
 
-  <p><strong>写给 Mr. R 和 Ms. Y</strong></p>
+  <p><strong>写给 Mr. R 和 Ms.Y</strong></p>
   <p>
     🌳 🌸
   </p>
